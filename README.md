@@ -156,4 +156,4 @@ An end-to-end machine learning application for Aerosol Optical Depth prediction.
 
 <p align="center">
 <i>Building scalable software, one commit at a time.</i> 🚀
-</p> is this git readme correct 
+</p>
