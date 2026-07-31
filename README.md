@@ -37,11 +37,11 @@ Building scalable web applications, backend systems, and AI-powered solutions.
 </tr>
 <tr>
 <td><b>Databases</b></td>
-<td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=light" height="32"/></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=light" height="32"/></td>
 </tr>
 <tr>
 <td><b>Tools & Cloud</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vscode&theme=light" height="32"/></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman&theme=light" height="32"/></td>
 </tr>
 </table>
 
