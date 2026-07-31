@@ -20,37 +20,30 @@ Building scalable web applications, backend systems, and AI-powered solutions.
 
 ---
 
-# 🛠 Tech Stack
+### 🧰 Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,mysql" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-</p>
-
-### Tools & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vscode" />
-</p>
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,mysql&theme=light" height="32"/></td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,html,css&theme=light" height="32"/></td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=light" height="32"/></td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=light" height="32"/></td>
+</tr>
+<tr>
+<td><b>Tools & Cloud</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vscode&theme=light" height="32"/></td>
+</tr>
+</table>
 
 ---
 
