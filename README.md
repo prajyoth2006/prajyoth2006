@@ -132,9 +132,6 @@ An end-to-end machine learning application for Aerosol Optical Depth prediction.
 
 </p>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Prajyoth2006?theme=dark&font=baloo&ext=heatmap&hide=total-solved-text,easy-solved-count,medium-solved-count,hard-solved-count" alt="LeetCode Stats" />
-</p>
 ---
 
 # 📫 Connect
