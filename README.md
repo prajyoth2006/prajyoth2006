@@ -110,8 +110,6 @@ An end-to-end machine learning application for Aerosol Optical Depth prediction.
 
 [![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/prajyoth2006/AOD-PREDICTOR)
 
----
-
 # 🏆 Coding Achievements
 
 - 🧩 Solved **550+** algorithmic problems
@@ -119,6 +117,10 @@ An end-to-end machine learning application for Aerosol Optical Depth prediction.
 - ⭐ **Codeforces Rating:** 1184
 
 ---
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Prajyoth2006?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
+</p>
 
 # 🌐 Coding Profiles
 
