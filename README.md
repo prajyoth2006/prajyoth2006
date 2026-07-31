@@ -118,10 +118,6 @@ An end-to-end machine learning application for Aerosol Optical Depth prediction.
 
 ---
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Prajyoth2006?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
-</p>
-
 # 🌐 Coding Profiles
 
 <p>
@@ -134,6 +130,10 @@ An end-to-end machine learning application for Aerosol Optical Depth prediction.
 <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Prajyoth2006?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Heatmap" />
 </p>
 
 ---
