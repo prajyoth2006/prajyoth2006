@@ -107,7 +107,7 @@ An end-to-end machine learning application for Aerosol Optical Depth prediction.
 - 🌲 Random Forest model with **80% accuracy**
 - ⚡ FastAPI REST APIs
 - 📈 Complete ML pipeline
-- 🌐 HTML, CSS, JS frontend WITH BACKEND WITH NODE JS, EXPRESS
+- 🌐 HTML, CSS, JavaScript, Node.js, Express.js along with ML and deployment
 
 **Tech Stack**
 
